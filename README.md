@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prince-Gauatm.
+- 👋 Hi, I’m @Prince-Gautam.
 - 👀 I’m interested in python coding.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
